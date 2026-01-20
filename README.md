@@ -1,0 +1,1 @@
+Welcome to my 'library', in this repository are included the projects that I have developed in my free time. This includes web development projects using HTML, CSS and Javascript, projects in Java and Python programming languages, as well as front-end interfaces in Java language with databases implemented in MySql using the Xampp tool.
